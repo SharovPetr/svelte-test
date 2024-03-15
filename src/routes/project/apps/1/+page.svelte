@@ -132,9 +132,6 @@
 
     .todo.completed {
     color: slategray;
-    }
-
-    .todo.completed.todo__text {
     text-decoration: line-through;
     }
 
